@@ -1,2 +1,1 @@
-print("iGap Technology")
-print("kolhapur")
+print("Welcome to Kolhapur")
